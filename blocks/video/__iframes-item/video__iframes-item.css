@@ -1,0 +1,7 @@
+.video__iframes-item {
+  margin: 0 20px 0 0;
+}
+
+.video__iframes-item:nth-child(2n+2) {
+  margin-right: 0;
+}
