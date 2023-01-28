@@ -19,6 +19,9 @@ HTML страница с контентом про то, как научитьс
 * CSS
 * Методология БЭМ Nested
 
+### Ссылка на Github pages
+[https://saveforweb.github.io/how-to-learn/](https://saveforweb.github.io/how-to-learn/)
+
 ## Планы по доработке:
 
 * подключить другие шрифты;
